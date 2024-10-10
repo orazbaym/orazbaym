@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Mukhtar
 🔭 I’m currently working on KidCare AI<br>👯 I’m looking to collaborate on machine learning, data science projects, and frontend development initiatives<br>🌱 I’m currently learning cloud-native architectures, Kubernetes, and enhancing my algorithmic problem-solving skills for high-performance applications.<br>💬 Ask me about Python, Machine Learning, JS, React, Next.js
 
 
